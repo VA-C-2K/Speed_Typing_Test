@@ -97,7 +97,7 @@ const App = () => {
     
       const myStyle={
         backgroundImage: `url(./img/img5.jpg)`,
-        height:'200vh',
+        height:'112vmin',
         backgroundSize:'cover',
         backgroundRepeat: 'no-repeat',
         backgroundPosition: 'center',
