@@ -96,7 +96,7 @@ const App = () => {
       }
     
       const myStyle={
-        backgroundImage: `url(./img/img5.jpg)`,
+        backgroundImage: `url(./img/keyboard.jpg)`,
         height:'112vmin',
         backgroundSize:'cover',
         backgroundRepeat: 'no-repeat',
